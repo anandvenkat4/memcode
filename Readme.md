@@ -1,5 +1,6 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lakesare/memcode) 
 [![Open Source Helpers](https://www.codetriage.com/lakesare/memcode/badges/users.svg)](https://www.codetriage.com/lakesare/memcode)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/anandvenkat4%40gmail.com)
 
 Site ❤️: http://www.memcode.com
 
